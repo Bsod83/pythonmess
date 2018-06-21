@@ -6,3 +6,8 @@ idea how the stepper motors hooked up to the raspberry pi worked. i have sinced 
 this way. decided to put it up on git hub since i use it so much. 
 
 lcdkeypad.py is a mess of code that i copied from other code for a 4x3 keypad and a 16x1 lcd screen that i actually found of recently is a 8x2 just side by side. i cannot get the lcd to work in 4 bit mode so changes will come for 8 bit on you guessed it a shift register. 
+the shift registers are running off of shiftpi found here https://github.com/mignev/shiftpi
+lcdkeypad is a straight copy for now of someone elses code. it used pad4pi found here https://github.com/brettmclean/pad4pi
+
+
+#Enjoy!
